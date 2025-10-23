@@ -51,7 +51,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ashwinabey/visual-matcher.git
+git clone (https://github.com/shreyakumari99/Visual-Product-Matcher.git)
 cd visual-matcher
 
 # Install JavaScript dependencies
