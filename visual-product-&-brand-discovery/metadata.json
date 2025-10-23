@@ -1,0 +1,5 @@
+{
+  "name": "Visual Product & Brand Discovery",
+  "description": "An AI-powered web application that allows users to upload an image of a product to first identify it, and then discover popular brands known for that type of product.",
+  "requestFramePermissions": []
+}
