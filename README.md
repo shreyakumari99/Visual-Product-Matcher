@@ -316,6 +316,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
   
 **If you find this project helpful, please consider giving it a ⭐!**
 
-Made with ❤️ by [Ashwin Abey](https://github.com/ashwinabey)
+Made with ❤️ by [Shreya Kumari]((https://github.com/shreyakumari99))
 
 </div>
